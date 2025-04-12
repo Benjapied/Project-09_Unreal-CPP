@@ -1,0 +1,28 @@
+{
+	"waves": [
+	  {
+		"waveNumber": 1,
+		"spawnInterval": 5.0,
+		"enemies": [
+		  { "type": "EnemyTypeA", "count": 5 },
+		  { "type": "EnemyTypeB", "count": 5 }
+		]
+	  },
+	  {
+		"waveNumber": 2,
+		"spawnInterval": 5.0,
+		"enemies": [
+		  { "type": "EnemyTypeA", "count": 5 },
+		  { "type": "EnemyTypeB", "count": 5 }
+		]
+	  },
+	  {
+		"waveNumber": 3,
+		"spawnInterval": 15.0,
+		"enemies": [
+		  { "type": "EnemyTypeA", "count": 0 },
+		  { "type": "EnemyTypeB", "count": 0 }
+		]
+	  }
+	]
+  }
